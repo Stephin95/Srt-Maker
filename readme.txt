@@ -1,5 +1,6 @@
 Auto SRT Maker
 
+Python is a requirement for this script to work
 Please download any model according to your requirement from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
 Install ffmpeg based on your operating system
 install vosk using by following command
